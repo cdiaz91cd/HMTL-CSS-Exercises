@@ -1,0 +1,35 @@
+body{
+	margin: 0;
+}
+
+.main-container{
+	background-color: #A1EFCA;
+	margin: 10px;
+	height: auto;
+	display: flex;
+	align-items: center;
+
+}
+
+.imagen-logo{
+	width: 50px;
+	height: 50px;
+	padding: 10px;
+}
+
+.search{
+	height: 30px;
+	width: 100%;
+	margin: 10px;
+	padding: 5px;
+	font-size: 12px;
+}
+
+
+@media (min-width: 700px) { 
+	.main-container{
+		max-width: 100%;
+		min-width: 100%
+	}
+
+ }

@@ -1,0 +1,66 @@
+body{
+	margin = 0;
+}
+
+
+
+.container-principal{
+
+	margin-top: 50px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+
+.container-medio{
+/*	display: inline-block;*/
+	border-style: outset;
+	margin: 10px;
+	padding: 8px;
+
+}
+
+.carousel{
+	width: 200px;
+	height: 200px;
+	align-self: center;
+}
+
+.imagen-chica{
+	width: 40px;
+	height: 40px;
+	text-align: left;
+}
+
+.texto{
+	font-family: 'Arbutus Slab', serif;
+	color: black;
+	background-color: #EAD62F;
+	padding: 5px;
+	text-align: center;
+
+}
+
+.boton{
+	text-align: center;
+	margin: 10px;
+
+}
+
+.botoncito{
+	background-color: pink;
+	color: white;
+	border-radius: 8px;
+	font-size: 14px;
+	font-family: 'Viga', sans-serif;
+
+}
+
+.texto2{
+	font-family: 'Viga', sans-serif;
+	font-size: 12px;
+	text-align: left;
+	color: #32A667;
+}
+

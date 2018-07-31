@@ -1,0 +1,43 @@
+body{
+	margin: 0;
+}
+
+.container-principal{
+	border: solid black;
+	margin: auto;
+    width: 450px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.imagen{
+	width: auto;
+	height: 200px;
+}
+
+.texto{
+	font-family: 'Cutive', serif;
+	color: #FF4861;
+}
+
+.container1{
+	text-align: center;
+
+}
+
+.container2{
+	text-align: left;
+	margin-left: 15px;
+}
+
+.texto2{
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+}
+
+.corazon{
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+}
